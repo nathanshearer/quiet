@@ -13,6 +13,6 @@ Examples:
   quiet ls /nodir
 
 Version:
-  quiet 1.0.0.0
+  quiet 1.0.1.0
   Copyright (C) 2017 Nathan Shearer
   Licensed under GNU General Public License 2.0
